@@ -4,3 +4,4 @@ task1
 CG_IMAGE
 NoteBook.ipynb
 cifake_classifier_vgg16.ipynb
+DataSet.py
